@@ -34,11 +34,11 @@ Creating a new conda environment is recommended. Run this script like:
 
 ## Testdata and Results
 #### Input image
-[![](https://github.com/StephenApX/BacteriaDetect/blob/main/testdata/1.tif)](https://github.com/StephenApX/BacteriaDetect/blob/main/testdata/1.tif)
+[![Input](https://github.com/StephenApX/BacteriaDetect/blob/main/refs/intput.png)](https://github.com/StephenApX/BacteriaDetect/blob/main/refs/intput.png)
 
 #### Output results
-[![](https://github.com/StephenApX/BacteriaDetect/blob/main/testresults/1_Rect.tif)](https://github.com/StephenApX/BacteriaDetect/blob/main/testresults/1_Rect.tif)
-[![](https://github.com/StephenApX/BacteriaDetect/blob/main/testresults/1_Circ.tif)](https://github.com/StephenApX/BacteriaDetect/blob/main/testresults/1_Circ.tif)
+[![Output_rect](https://github.com/StephenApX/BacteriaDetect/blob/main/refs/output_rect.png)](https://github.com/StephenApX/BacteriaDetect/blob/main/refs/output_rect.png)
+[![Output_circ](https://github.com/StephenApX/BacteriaDetect/blob/main/refs/output_circ.png "Output_circ")](https://github.com/StephenApX/BacteriaDetect/blob/main/refs/output_circ.png "Output_circ")
 
 ## Citation
 Please consider citing the following article if you used this project in your research.
